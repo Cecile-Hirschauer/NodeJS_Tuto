@@ -8,10 +8,6 @@
 
 📺 [YouTube Tutorial](https://youtu.be/f2EqECiTBL8) for this repository.
 
-🚀 This repository shares ALL of the resources referenced during the 7 hour Youtube tutorial.
-
-❗ I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
-
 ---
 
 ### 📚 References
