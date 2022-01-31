@@ -1,0 +1,2 @@
+20220131	17:05:19	3e1f2324-9b56-4f3a-932d-d502b862461f	Log event emitted!
+20220131	17:05:37	290d3c2d-a8ac-4bda-be6d-b6bc4fa76ab3	Log event emitted!
