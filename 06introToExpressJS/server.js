@@ -25,12 +25,12 @@ app.get('/hello(.html)?', (req, res, next) => {
 });
 
 // Chaining route handlers
-const one = (rep, req, next) => {
+const one = (req, res, next) => {
     console.log('one');
     next();
 };
 
-const two = (req, rep, next) => {
+const two = (req, res, next) => {
     console.log('two');
     next();
 }
