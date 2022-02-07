@@ -1,0 +1,2 @@
+20220207	16:05:44	00dde9ad-3ff3-4c41-bd5c-fbda647707e3	TypeError: res.join is not a function
+20220207	16:36:14	4bdb857f-e149-4987-8b6e-2018e87d6afd	SyntaxError: Unexpected token f in JSON at position 10
